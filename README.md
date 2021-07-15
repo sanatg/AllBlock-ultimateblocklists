@@ -6,4 +6,6 @@
     
 # Open for contributors 
     if you want to add more lists of urls feel free but please double check with the existing one.
+    
+ to access the ultimate blocklist switch to the master branch.
      
